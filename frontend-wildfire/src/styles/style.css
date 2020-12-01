@@ -1,0 +1,19 @@
+body {
+	padding-top: 70px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 70px;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}
+
+Link {
+	text-decoration: none;
+}
+
+Link:hover {
+	text-decoration: none;
+}
